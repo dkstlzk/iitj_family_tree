@@ -8,6 +8,9 @@
 - [ ] Bug fix
 - [ ] UI/UX improvement
 
+## Issue number resolved 
+fix #issue_number 
+
 ## Checklist
 - [ ] My code adheres to the coding and style guidelines of the project.
 - [ ] I have performed a self-review of my own code.
